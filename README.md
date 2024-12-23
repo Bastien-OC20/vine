@@ -13,10 +13,15 @@ Prédire la qualité du vin en fonction de sa composition.
 
 # Installation
 `python -m venv.venv`
+
 `activation du venv`
+
 `python.exe -m pip install --upgrade pip`
+
 `pip install numpy plotly pandas ipykernel seaborn`
+
 `pip install --upgrade nbformat`
+
 `Et les autres librairies`
 
 # Data Analyse
